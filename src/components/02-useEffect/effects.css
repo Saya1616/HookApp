@@ -1,6 +1,12 @@
 body{
     padding: 70px;
 }
+
 input{
     margin: 10px;
+}
+
+blockquote{
+    text-align: right;
+
 }
